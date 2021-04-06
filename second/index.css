@@ -1,0 +1,15 @@
+.box1 {
+  background-color: #FFFFFF;
+  border: black 2px solid;
+  width: 97vw;
+  height: 33vh;
+  margin: 20px auto;
+}
+
+.box2 {
+background-color: white;
+border: black 3px dotted;
+width: 97vw;
+height: 40vh;
+margin: 20px auto;
+}
