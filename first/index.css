@@ -1,23 +1,26 @@
 body {
-  width: 100%;
-  height: 100%;
-  background-color: #FFFFFF
+  width: 100vh;
+  height: 100vh;
+  background-color: #D2D8D2;
+  margin: 0;
 }
 
-.sides {
-  width: 20%;
-  height: 100%;
-  background-color: #D2D8D2
+.fg {
+  width: 75vh;
+  height: 80vh;
+  background-color: #FFFFFF;
+  margin: 0 auto;
 }
 
 .bottom {
-  width: 60%;
-  height: 10%;
-  background-color: #1E1E1F
+  width: 75vh;
+  height: 10vh;
+  background-color: #1E1E1F;
+  margin: 0 auto;
 }
 
 .top {
-  width: 100%;
-  height: 20%;
-  background-color: #4B4646
+  width: 100vh;
+  height: 15vh;
+  background-color: #4B4646;
 }
